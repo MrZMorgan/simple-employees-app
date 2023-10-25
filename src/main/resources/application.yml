@@ -1,0 +1,4 @@
+employees-server:
+  url: 'https://python.test.bobdaytech.ru/api/v1'
+  user: 'test'
+  password: 'test'
